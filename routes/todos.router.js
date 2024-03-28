@@ -2,7 +2,6 @@
 import express from 'express';
 import joi from 'joi';
 import Todo from '../schemas/todo.schemas.js';
-import joi from 'joi';
 
 /**
  * #6 Joi 유효성 검증
